@@ -8,7 +8,10 @@ import {
 
 const Footer = () => {
   return (
-    <div className="max-w-[1240px] mx-auto py-16 px-4 grid md:grid-cols-3 text-gray-300">
+    <div
+      className="max-w-[1240px] mx-auto py-16 px-4 grid md:grid-cols-3 text-gray-300"
+      id="footer"
+    >
       <div className="pr-4">
         <h1 className="w-full text-3xl font-bold text-[#00df91]">React</h1>
         <p className="py-4">

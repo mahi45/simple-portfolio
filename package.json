@@ -1,5 +1,6 @@
 {
   "name": "sportfolio",
+  "homepage": "https://mohidulhasan.com/sportfoilo",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,6 +14,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.10.1",
+    "react-scroll": "^1.8.9",
     "react-typed": "^1.2.0"
   },
   "devDependencies": {
